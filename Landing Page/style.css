@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&display=swap');
+
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 80vw;
+}
+
+.navbar{
+    display: flex;
+    height: 80px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar li{
+    list-style: none;
+    margin: 0 15px;
+}
+
+.gold{
+    color: orange;
+}
+
+.topleft{
+    width: 40%;
+    height: 50vh;
+}
+
+.topright{
+    width: 50%;
+    height: 50vh;
+}
+
+.section1{
+    height: 60vh;
+}
+
+.p1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: deeppink;
+    padding: 1cm;
+    height: 40px;
+    font-size: 20px;
+    padding: 50px;
+    text-align: center;
+}
+
+.pr{
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 1cm;
+    margin: 15px;
+}
+
+.p2{
+    color: darkred;
+    text-align: center;
+    font-size: 3ch;
+    font-family: monospace;
+}
+
+.box{
+    background-color: lavender;
+    font-family: cursive;
+    font-style: bold;
+    font-size: 18px;
+    margin: 24px 34px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.section3{
+    color: white;
+    background-image: url(./gym3.png);
+    background-repeat: no-repeat;
+    background-size: 1600px;
+}
+
+.address{
+    font-size: 50px;
+    color: crimson;
+    text-align: center;
+    padding: 20px;
+}
+
+h6{
+    color: crimson;
+    text-align: center;
+    height: 30px;
+    font-size: 30px;
+    padding: 20px;
+
+}
+
+.address1{
+    font-size: 25px;
+    font-family: cursive;
+    padding: 20px;
+    margin: 20px;
+}
+
+.ss{
+    color: crimson;
+    text-align: center;
+    padding: 50px;
+    list-style-type: none;
+}
+
+.slogan{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    padding: 20px;
+}
+
+.at1{
+    color: dimgrey;
+    font-size: 70px;
+    font-family: fantasy;
+}
+
+.at2{
+    padding: 20px;
+    font-size: 30px;
+    font-size: inherit;
+}
+
+.bili{
+    color: dimgrey;
+}
+
+.navsa{
+    color: dimgrey;
+}
+
+.val{
+    color: dimgrey;
+}
+
+.chi{
+    color: dimgrey;
+}

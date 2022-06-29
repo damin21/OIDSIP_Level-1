@@ -1,0 +1,148 @@
+.min-h-screen{
+    min-height: 1000vh;
+
+}
+
+.bg-red{
+    background-color:red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.flex{
+    display: flex;
+}
+
+.iteams-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.font-bold{
+    font-weight: bold;
+    font-size: 8ch;
+    font-style: oblique;
+    color: peru;
+}
+
+
+.justify-center{
+    justify-content: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.mg-1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-self: center;
+    color: violet;
+    font-size: 30px;
+    font-family: 'raleway';
+}
+
+.pd-2{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bu{
+    color: azure;
+    padding: 8px;
+    border: 1px thick;
+    border-radius: 15px;
+    background-color: peru;
+}
+
+.gym{
+    padding-top: 1cm;
+    height: 10cm;
+    margin-left: 100px;
+}
+
+.gym2{
+    width: 150px;
+    height: 150px;
+    padding: 0 160px;
+    
+}
+
+.u1{
+    background-color: crimson;
+    color: burlywood;
+    text-align: center;
+    padding: 24px;
+    font-size: 19px;
+}
+
+.u2{
+    background-color: crimson;
+    color: burlywood;
+    text-align: center;
+    padding: 8px;
+    font-size: 20px;
+}
+
+.u3{
+    background-color: crimson;
+    color: burlywood;
+    text-align: center;
+    padding: 9.5px;
+    font-size: 21px;
+}
+
+.b1{
+    background-color: red;
+    color: white;
+    font-size: 15px;
+}
+
+.b2{
+    background-color: red;
+    color: white;
+    font-size: 15px;
+}
+
+.b3{
+    background-color: red;
+    color: white;
+    font-size: 15px;
+}
+
+.h2{
+    color: crimson;
+    text-align: center;
+}
+
+.h3{
+    color: crimson;
+    text-align: center;
+}
+
+.h4{
+    color: crimson;
+    text-align: center;
+    font-size: 26px;
+}
+
+.r{
+    font-size: 45px;
+    font-family: 'Raleway';
+    text-align: center;
+}
+
+.rule{
+    font-size: 20px;
+    padding: 20px;
+    font-family: monospace;
+}
+
